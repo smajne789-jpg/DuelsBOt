@@ -1,1 +1,0 @@
-"""Dice duel bot package."""
